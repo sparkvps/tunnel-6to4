@@ -53,7 +53,7 @@ sysctl -p
 
 ## دستورالعمل نصب سرور خارجی
 
-1. باز کنید : `/etc/rc.local file`:
+1 = باز کنید`/etc/rc.local file:`
 
 ```
 nano /etc/rc.local
