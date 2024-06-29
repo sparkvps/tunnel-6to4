@@ -1,4 +1,14 @@
-# IPV6-Tunnel
+<p align="center">
+  <a href="./README.md">
+	English
+	</a>
+	|
+	<a href="./README_fa.md">
+	فارسی
+	</a>
+
+
+# tunnel-6to4
 
 ### Learn how to set up and configure 6to4 IPv6 tunneling on Linux with this guide.
 
